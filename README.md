@@ -7,3 +7,6 @@ Simple Interest = (P * R * T) / 100
 
 ## How to run:
 bash simple-interest.sh
+
+
+This is my contribution
